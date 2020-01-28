@@ -5,7 +5,7 @@ source:
     port: 9090
     metric: /dummmy
 job: 
-    type: regression
+    type: regression 
     order: 2
 workers:
     type: RQ
