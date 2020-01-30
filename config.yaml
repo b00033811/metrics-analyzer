@@ -14,5 +14,3 @@ sink:
     type: internal
 output:
     carry: True
-
-

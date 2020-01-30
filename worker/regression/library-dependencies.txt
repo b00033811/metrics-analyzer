@@ -1,0 +1,4 @@
+# scipy & numpy
+# http://scipy.github.io/devdocs/building/linux.html
+libopenblas-dev
+liblapack-dev
